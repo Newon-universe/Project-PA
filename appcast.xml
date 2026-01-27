@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>                                                                                               
+  <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">  
+    <channel>                                                                                                                          
+      <title>Project PA Updates</title>                                                                                                
+      <link>https://github.com/Newon-universe/Project-PA</link>                                                                        
+      <description>Project PA app updates</description>                                                                                
+      <language>en</language>                                                                                                          
+                                                                                                                                       
+      <item>                                                                                                                           
+        <title>Version 1.0</title>                                                                                                     
+        <description><![CDATA[                                                                                                         
+          <h2>What's New in 1.0</h2>                                                                                                   
+          <ul>                                                                                                                         
+            <li>Initial release</li>                                                                                                   
+          </ul>                                                                                                                        
+        ]]></description>                                                                                                              
+        <pubDate>Mon, 27 Jan 2025 12:00:00 +0000</pubDate>                                                                             
+        <sparkle:version>1</sparkle:version>                                                                                           
+        <sparkle:shortVersionString>1.0</sparkle:shortVersionString>                                                                   
+        <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>                                                              
+        <enclosure                                                                                                                     
+          url="https://github.com/Newon-universe/Project-PA/releases/download/v1.0/Project_PA_1.0.dmg"                                 
+          sparkle:edSignature="AL2vmOQ0K1sDnxqUjTTfRUBHhl5on7urwH0EQNsp+BHOlBP9aKhYjpITEplxdmf8Zv1w+xg9af7t7up7kAmiCA=="                                                                                   
+          length="17669129"                                                                                                   
+          type="application/octet-stream"/>                                                                                            
+      </item>                                                                                                                          
+                                                                                                                                       
+    </channel>                                                                                                                         
+</rss> 
