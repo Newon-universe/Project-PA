@@ -49,8 +49,8 @@
         <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>                                                                  
         <enclosure                                                                                                                         
           url="https://github.com/Newon-universe/Project-PA/releases/download/v.0.1.1/DdukMemo_Installer.dmg"                             
-          sparkle:edSignature="AF9PTFrlBICaHXO8v+JyIWpfAHSw6z8WCYYdvC4HeHN4ghqE6uvJmHKOdfJ0Lhq4T9xnhGKrPrMNXbbj7+YzCQ=="                                                                                                 
-          length="18765263"                                                                                                              
+          sparkle:edSignature="OhpLpKtC8SXCJKSbSbejasKvjxhfyolNpkGDh1wA9LTIqxoM1DzQq2pGVlnRd42k1uKN79oYuk1/krAOdOZrBQ=="                                                                                                 
+          length="18763137"                                                                                                              
           type="application/octet-stream"/>                                                                                                
       </item> 
       
