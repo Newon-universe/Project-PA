@@ -20,7 +20,7 @@
         <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>                                                                     
         <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>                                                                  
         <enclosure                                                                                                                         
-          url="https://github.com/Newon-universe/Project-PA/releases/download/v0.1.1/DdukMemo_Installer.dmg"                             
+          url="https://github.com/Newon-universe/Project-PA/releases/download/v.0.1.1/DdukMemo_Installer.dmg"                             
           sparkle:edSignature="AF9PTFrlBICaHXO8v+JyIWpfAHSw6z8WCYYdvC4HeHN4ghqE6uvJmHKOdfJ0Lhq4T9xnhGKrPrMNXbbj7+YzCQ=="                                                                                                 
           length="18765263"                                                                                                              
           type="application/octet-stream"/>                                                                                                
@@ -39,7 +39,7 @@
         <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>                                                                   
         <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>                                                              
         <enclosure                                                                                                                     
-          url="https://github.com/Newon-universe/Project-PA/releases/download/v0.1.0/Project_PA_Installer.dmg"                                 
+          url="https://github.com/Newon-universe/Project-PA/releases/download/v.0.1.0/Project_PA_Installer.dmg"                                 
           sparkle:edSignature="AL2vmOQ0K1sDnxqUjTTfRUBHhl5on7urwH0EQNsp+BHOlBP9aKhYjpITEplxdmf8Zv1w+xg9af7t7up7kAmiCA=="                                                                                   
           length="17669129"                                                                                                   
           type="application/octet-stream"/>                                                                                            
