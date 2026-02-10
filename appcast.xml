@@ -5,7 +5,58 @@
     <link>https://github.com/Newon-universe/Project-PA</link>
     <description>DdukMemo app updates</description>
     <language>en</language>
+    <item>
+      <title>Version 0.2.0</title>
+      <description><![CDATA[
+        <h2>DdukMemo v0.2.0</h2>
 
+        <h3>Rich Document Editor</h3>
+        <ul>
+        <li>New block-based rich text editor for action panels</li>
+        <li>Checkboxes with inline toggle — type <code>[]</code> to create</li>
+        <li>Link previews — paste a URL to auto-generate a rich card</li>
+        <li>Timer and alarm blocks with calendar sync</li>
+        <li>Section headers for organizing content</li>
+        <li>Arrow key navigation between blocks</li>
+        <li>Content folding — collapse long text blocks</li>
+        </ul>
+
+        <h3>Index Window Redesign</h3>
+        <ul>
+        <li>Flattened UI with unified glass sidebar</li>
+        <li>Tabbed content area (Activity / Todo)</li>
+        <li>Improved search with real-time filtering</li>
+        <li>Project accent colors throughout</li>
+        <li>Design system token migration</li>
+        </ul>
+
+        <h3>Action Panel Improvements</h3>
+        <ul>
+        <li>Workspace strip — bookshelf-style attachment display</li>
+        <li>Content folding for text, checkbox, and workspace items</li>
+        <li>Title auto-syncs from first block content</li>
+        <li>Improved drag and drop between panels</li>
+        </ul>
+
+        <h3>Bug Fixes</h3>
+        <ul>
+        <li>Fixed text truncation when typing rapidly in action panels</li>
+        <li>Fixed checkbox alignment and focus handling</li>
+        <li>Fixed stale document state after quick edits</li>
+        <li>Improved Swift 6 concurrency safety</li>
+        </ul>
+        ]]></description>
+      <pubDate>Tue, 11 Feb 2026 12:00:00 +0000</pubDate>
+      <sparkle:version>0.2.0</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Newon-universe/Project-PA/releases/download/v.0.2.0/DdukMemo_Installer.dmg"
+        sparkle:edSignature="ICdvunVCkQmXHqokUfay0/tg4otsDfFk52NuZ9mODWi7U6X151yG7XQuaZRm02f7y38t+h74MrEwbhipG5uwCg=="
+        length="19247179"
+        type="application/octet-stream" />
+    </item>
+    
     <item>
       <title>Version 0.1.1</title>
       <description><![CDATA[
