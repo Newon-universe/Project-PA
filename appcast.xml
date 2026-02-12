@@ -1,140 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <channel>
-    <title>DdukMemo Updates</title>
-    <link>https://github.com/Newon-universe/Project-PA</link>
-    <description>DdukMemo app updates</description>
-    <language>en</language>
-    <item>
-      <title>Version 0.2.0</title>
-      <description><![CDATA[
-        <h2>DdukMemo v0.2.0</h2>
-
-        <h3>Rich Document Editor</h3>
-        <ul>
-        <li>New block-based rich text editor for action panels</li>
-        <li>Checkboxes with inline toggle — type <code>[]</code> to create</li>
-        <li>Link previews — paste a URL to auto-generate a rich card</li>
-        <li>Timer and alarm blocks with calendar sync</li>
-        <li>Section headers for organizing content</li>
-        <li>Arrow key navigation between blocks</li>
-        <li>Content folding — collapse long text blocks</li>
-        </ul>
-
-        <h3>Index Window Redesign</h3>
-        <ul>
-        <li>Flattened UI with unified glass sidebar</li>
-        <li>Tabbed content area (Activity / Todo)</li>
-        <li>Improved search with real-time filtering</li>
-        <li>Project accent colors throughout</li>
-        <li>Design system token migration</li>
-        </ul>
-
-        <h3>Action Panel Improvements</h3>
-        <ul>
-        <li>Workspace strip — bookshelf-style attachment display</li>
-        <li>Content folding for text, checkbox, and workspace items</li>
-        <li>Title auto-syncs from first block content</li>
-        <li>Improved drag and drop between panels</li>
-        </ul>
-
-        <h3>Bug Fixes</h3>
-        <ul>
-        <li>Fixed text truncation when typing rapidly in action panels</li>
-        <li>Fixed checkbox alignment and focus handling</li>
-        <li>Fixed stale document state after quick edits</li>
-        <li>Improved Swift 6 concurrency safety</li>
-        </ul>
-        ]]></description>
-      <pubDate>Tue, 11 Feb 2026 12:00:00 +0000</pubDate>
-      <sparkle:version>0.2.0</sparkle:version>
-      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/Newon-universe/Project-PA/releases/download/v.0.2.0/DdukMemo_Installer.dmg"
-        sparkle:edSignature="ICdvunVCkQmXHqokUfay0/tg4otsDfFk52NuZ9mODWi7U6X151yG7XQuaZRm02f7y38t+h74MrEwbhipG5uwCg=="
-        length="19247179"
-        type="application/octet-stream" />
-    </item>
-    
-    <item>
-      <title>Version 0.1.1</title>
-      <description><![CDATA[
-        <h2>DdukMemo v0.1.1</h2>
-
-        <h3>Important: Manual Update Required</h3>
-        <p>This version includes an app rename. Please update manually:</p>
-        <ol>
-          <li>Quit "Project PA" completely</li>
-          <li>Open the downloaded DMG</li>
-          <li>Drag "DdukMemo" to Applications (replace if asked)</li>
-          <li>Delete old "Project PA.app" from Applications</li>
-        </ol>
-        <p><strong>Your data is safe</strong> - it's stored in ~/Library, not inside the app.</p>
-
-        <hr/>
-
-        <h3>What's New</h3>
-
-        <h4>App Rebranding</h4>
-        <ul>
-          <li>App renamed from "Project PA" to "DdukMemo"</li>
-        </ul>
-
-        <h4>Dock Icon Behavior</h4>
-        <ul>
-          <li>Dock click now prioritizes bringing action panels to front</li>
-          <li>Opens Index window only when no panels are open</li>
-          <li>Added "Open Index Window" to dock right-click menu</li>
-        </ul>
-
-        <h4>Action Panel Header Redesign</h4>
-        <ul>
-          <li>New button order: Pin, Attachment, New Panel</li>
-          <li>"Complete" button moved to menu for cleaner layout</li>
-          <li>Added quick "New Panel" button in header</li>
-        </ul>
-
-        <h4>Menu Enhancements</h4>
-        <ul>
-          <li>Added "Mark Complete/Incomplete" at top of panel menu</li>
-          <li>Added "Open Index Window" option in panel menu</li>
-        </ul>
-
-        <h4>Bug Fixes</h4>
-        <ul>
-          <li>Several minor UX improvements</li>
-        </ul>
-      ]]></description>
-      <pubDate>Tue, 3 Feb 2026 12:00:00 +0000</pubDate>
-      <sparkle:version>0.1.1</sparkle:version>
-      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/Newon-universe/Project-PA/releases/download/v.0.1.1/DdukMemo_Installer.dmg"
-        sparkle:edSignature="OhpLpKtC8SXCJKSbSbejasKvjxhfyolNpkGDh1wA9LTIqxoM1DzQq2pGVlnRd42k1uKN79oYuk1/krAOdOZrBQ=="
-        length="18763137"
-        type="application/octet-stream" />
-    </item>
-
-    <item>
-      <title>Version 0.1.0</title>
-      <description><![CDATA[
-        <h2>What's New in 0.1.0</h2>
-        <ul>
-          <li>Initial release</li>
-        </ul>
-      ]]></description>
-      <pubDate>Mon, 27 Jan 2025 12:00:00 +0000</pubDate>
-      <sparkle:version>0.1.0</sparkle:version>
-      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure
-        url="https://github.com/Newon-universe/Project-PA/releases/download/v.0.1.0/Project_PA_Installer.dmg"
-        sparkle:edSignature="AL2vmOQ0K1sDnxqUjTTfRUBHhl5on7urwH0EQNsp+BHOlBP9aKhYjpITEplxdmf8Zv1w+xg9af7t7up7kAmiCA=="
-        length="17669129"
-        type="application/octet-stream" />
-    </item>
-
-  </channel>
+    <channel>
+        <title>DdukMemo</title>
+        <link>https://github.com/Newon-universe/Project-PA</link>
+        <description>DdukMemo updates</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.2.1</title>
+            <pubDate>Thu, 12 Feb 2026 12:10:30 +0900</pubDate>
+            <sparkle:version>2026021201</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Newon-universe/Project-PA/releases/download/v0.2.1/DdukMemo-0.2.1.dmg" type="application/octet-stream" sparkle:edSignature="PtwqCOBEyIUvnLdvRF+e2b5GiUEfCnc00bWSbjOl9xQEfIGZmn0DS1mlAGERhgROk6jr4R7s6r2IOqMw+J2gAg==" length="19461781" />
+        </item>
+    </channel>
 </rss>
