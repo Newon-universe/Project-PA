@@ -69,5 +69,13 @@
                 <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
                 <enclosure url="https://github.com/Newon-universe/Project-PA/releases/download/v0.4.1/DdukMemo-0.4.1.dmg" type="application/octet-stream" sparkle:edSignature="zHWxlkaQGAb3PUo99ib837kJwmP8HobJBNPD2yXZDFCapmQOzvo01mgZcbwOYT6/R4iRL3i9Auv/s5zWRVXEBQ==" length="31914597" />
             </item>
+            <item>
+                <title>Version 0.5.1</title>
+                <pubDate>Sun, 08 Mar 2026 21:09:06 +0900</pubDate>
+                <sparkle:version>2026030801</sparkle:version>
+                <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+                <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+                <enclosure url="https://github.com/Newon-universe/Project-PA/releases/download/v0.5.1/DdukMemo-0.5.1.dmg" type="application/octet-stream" sparkle:edSignature="cBDqNcnS5nIG9Oi1qgXp83EBfc2hjSTy+ZA/GITXoZvWlTSSfnDFIXWO9dsR8BC9UNFmI39Zzaw9Dhk4YfsVCA==" length="32516345" />
+            </item>
     </channel>
 </rss>
